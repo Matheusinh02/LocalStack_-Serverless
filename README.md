@@ -393,24 +393,8 @@ Após executar `test-api.ps1` ou `test-api.sh`, você verá:
 
 ---
 
-## 👨‍💻 Autor
-
-**Cristiano** - Projeto desenvolvido como exemplo de arquitetura serverless com notificações SNS.
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
----
 
-## 🙏 Agradecimentos
-
-- [Serverless Framework](https://www.serverless.com/)
-- [LocalStack](https://localstack.cloud/)
-- [AWS Documentation](https://docs.aws.amazon.com/)
-
----
-
-**⭐ Se este projeto foi útil, considere dar uma estrela no repositório!**
